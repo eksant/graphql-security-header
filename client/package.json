@@ -1,0 +1,38 @@
+{
+  "name": "graphql-client",
+  "version": "0.1.0",
+  "repository": "https://github.com/eksant/graphql-security-header",
+  "author": "eksa <eksant@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.1.1",
+    "antd": "^4.5.1",
+    "crypto-js": "^4.0.0",
+    "graphql": "^15.3.0",
+    "moment": "^2.27.0",
+    "rc-tween-one": "^2.7.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "subscriptions-transport-ws": "^0.9.17"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

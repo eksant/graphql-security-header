@@ -1,0 +1,24 @@
+{
+  "name": "graphql-server",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/eksant/graphql-security-header",
+  "author": "eksa <eksant@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.16.1",
+    "apollo-server-express": "^2.16.1",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1",
+    "graphql": "^15.3.0",
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
