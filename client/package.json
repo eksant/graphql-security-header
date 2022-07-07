@@ -13,7 +13,7 @@
     "antd": "^4.5.1",
     "crypto-js": "^4.0.0",
     "graphql": "^15.3.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "rc-tween-one": "^2.7.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
